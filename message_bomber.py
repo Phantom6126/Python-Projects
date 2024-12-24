@@ -1,3 +1,5 @@
+# working : Run the code and place the cursor on the text box in a tome limit of 8 seconds
+
 # for pyautogui installation , terminal command : pip install pyautogui
 
 import pyautogui as pg  # install this library to cotrol the cursor 
